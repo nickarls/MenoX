@@ -1,0 +1,1399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\MenoXApp.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\MenoXApp.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\MenoXApp.mc" id="4" lineNum="10" pc="268435479" symbol="getInitialView"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\MenoXApp.mc" id="4" lineNum="11" pc="268435483" symbol="getInitialView"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\MenoXApp.mc" id="4" lineNum="12" pc="268435507" symbol="getInitialView"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\MenoXApp.mc" id="4" lineNum="13" pc="268435533" symbol="getInitialView"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\MenoXApp.mc" id="4" lineNum="14" pc="268435547" symbol="getInitialView"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\MenoXApp.mc" id="4" lineNum="15" pc="268435575" symbol="getInitialView"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\MenoXApp.mc" id="4" lineNum="17" pc="268435589" symbol="getInitialView"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\MenoXApp.mc" id="4" lineNum="18" pc="268435613" symbol="getInitialView"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\MenoXApp.mc" id="4" lineNum="20" pc="268435627" symbol="getInitialView"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\MenoXApp.mc" id="4" lineNum="21" pc="268435653" symbol="getInitialView"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\MenoXApp.mc" id="4" lineNum="23" pc="268435667" symbol="getInitialView"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="6" lineNum="7" pc="268435695" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="6" lineNum="8" pc="268435699" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="6" lineNum="9" pc="268435709" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="6" lineNum="10" pc="268435719" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="6" lineNum="11" pc="268435729" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="7" lineNum="14" pc="268435740" symbol="getBarCount"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="7" lineNum="15" pc="268435744" symbol="getBarCount"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="8" lineNum="18" pc="268435763" symbol="getBackgroundWidth"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="8" lineNum="19" pc="268435767" symbol="getBackgroundWidth"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="9" lineNum="22" pc="268435786" symbol="getBackground"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="9" lineNum="23" pc="268435790" symbol="getBackground"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="10" lineNum="26" pc="268435800" symbol="getSampleSize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="10" lineNum="27" pc="268435804" symbol="getSampleSize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="11" lineNum="30" pc="268435817" symbol="getBottomY"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="11" lineNum="31" pc="268435821" symbol="getBottomY"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="12" lineNum="34" pc="268435837" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="12" lineNum="35" pc="268435841" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="12" lineNum="36" pc="268435857" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="12" lineNum="37" pc="268435873" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="12" lineNum="38" pc="268435880" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBarConfig.mc" id="12" lineNum="39" pc="268435887" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="15" lineNum="17" pc="268435906" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="15" lineNum="18" pc="268435910" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="16" lineNum="21" pc="268435921" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="16" lineNum="22" pc="268435925" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="16" lineNum="23" pc="268435935" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="16" lineNum="25" pc="268435945" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="16" lineNum="26" pc="268435961" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="16" lineNum="28" pc="268435977" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="16" lineNum="29" pc="268435996" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="17" lineNum="33" pc="268436014" symbol="drawCircle"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="17" lineNum="34" pc="268436018" symbol="drawCircle"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="17" lineNum="35" pc="268436058" symbol="drawCircle"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="17" lineNum="36" pc="268436084" symbol="drawCircle"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="17" lineNum="37" pc="268436099" symbol="drawCircle"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="18" lineNum="40" pc="268436142" symbol="drawCurrentSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="18" lineNum="41" pc="268436146" symbol="drawCurrentSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="18" lineNum="42" pc="268436161" symbol="drawCurrentSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="18" lineNum="43" pc="268436174" symbol="drawCurrentSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="18" lineNum="44" pc="268436207" symbol="drawCurrentSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="18" lineNum="45" pc="268436247" symbol="drawCurrentSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="19" lineNum="48" pc="268436306" symbol="drawAverageSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="19" lineNum="49" pc="268436310" symbol="drawAverageSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="19" lineNum="50" pc="268436325" symbol="drawAverageSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="19" lineNum="51" pc="268436338" symbol="drawAverageSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="19" lineNum="52" pc="268436371" symbol="drawAverageSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="19" lineNum="53" pc="268436416" symbol="drawAverageSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="19" lineNum="54" pc="268436456" symbol="drawAverageSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="20" lineNum="57" pc="268436515" symbol="getOrigo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="20" lineNum="58" pc="268436519" symbol="getOrigo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="20" lineNum="59" pc="268436538" symbol="getOrigo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="20" lineNum="61" pc="268436556" symbol="getOrigo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="21" lineNum="65" pc="268436614" symbol="getTextCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="21" lineNum="66" pc="268436618" symbol="getTextCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Speed.mc" id="21" lineNum="67" pc="268436635" symbol="getTextCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="23" lineNum="8" pc="268436705" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="23" lineNum="9" pc="268436709" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="23" lineNum="10" pc="268436719" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="24" lineNum="13" pc="268436782" symbol="calculateBarXLocations"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="24" lineNum="14" pc="268436786" symbol="calculateBarXLocations"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="24" lineNum="16" pc="268436794" symbol="calculateBarXLocations"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="24" lineNum="17" pc="268436801" symbol="calculateBarXLocations"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="24" lineNum="18" pc="268436808" symbol="calculateBarXLocations"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="24" lineNum="20" pc="268436821" symbol="calculateBarXLocations"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="24" lineNum="21" pc="268436836" symbol="calculateBarXLocations"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="24" lineNum="23" pc="268436878" symbol="calculateBarXLocations"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="25" lineNum="26" pc="268436882" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="25" lineNum="27" pc="268436886" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="25" lineNum="28" pc="268436916" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="26" lineNum="32" pc="268436976" symbol="drawBar"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="26" lineNum="33" pc="268436980" symbol="drawBar"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="26" lineNum="34" pc="268437030" symbol="drawBar"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="26" lineNum="35" pc="268437046" symbol="drawBar"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="26" lineNum="36" pc="268437064" symbol="drawBar"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="26" lineNum="37" pc="268437081" symbol="drawBar"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="26" lineNum="38" pc="268437108" symbol="drawBar"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="26" lineNum="39" pc="268437126" symbol="drawBar"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="26" lineNum="40" pc="268437146" symbol="drawBar"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="27" lineNum="43" pc="268437159" symbol="drawValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="27" lineNum="44" pc="268437163" symbol="drawValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="27" lineNum="45" pc="268437189" symbol="drawValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="27" lineNum="46" pc="268437208" symbol="drawValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="27" lineNum="47" pc="268437248" symbol="drawValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="27" lineNum="48" pc="268437286" symbol="drawValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="27" lineNum="49" pc="268437314" symbol="drawValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="27" lineNum="50" pc="268437327" symbol="drawValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="27" lineNum="51" pc="268437338" symbol="drawValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="27" lineNum="53" pc="268437348" symbol="drawValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="28" lineNum="56" pc="268437395" symbol="drawBackground"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="28" lineNum="57" pc="268437399" symbol="drawBackground"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="29" lineNum="60" pc="268437436" symbol="drawCover"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="29" lineNum="61" pc="268437440" symbol="drawCover"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="29" lineNum="62" pc="268437480" symbol="drawCover"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="29" lineNum="63" pc="268437506" symbol="drawCover"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="30" lineNum="66" pc="268437545" symbol="getValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="30" lineNum="67" pc="268437549" symbol="getValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="30" lineNum="68" pc="268437560" symbol="getValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="30" lineNum="70" pc="268437576" symbol="getValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="30" lineNum="71" pc="268437589" symbol="getValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="30" lineNum="72" pc="268437609" symbol="getValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="30" lineNum="73" pc="268437624" symbol="getValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="31" lineNum="76" pc="268437628" symbol="getAverage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="31" lineNum="77" pc="268437632" symbol="getAverage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="31" lineNum="78" pc="268437652" symbol="getAverage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="31" lineNum="80" pc="268437661" symbol="getAverage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="31" lineNum="81" pc="268437668" symbol="getAverage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="31" lineNum="82" pc="268437692" symbol="getAverage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="31" lineNum="84" pc="268437715" symbol="getAverage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="32" lineNum="87" pc="268437731" symbol="drawSampleSize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="32" lineNum="88" pc="268437735" symbol="drawSampleSize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="32" lineNum="89" pc="268437754" symbol="drawSampleSize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="32" lineNum="90" pc="268437794" symbol="drawSampleSize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="32" lineNum="91" pc="268437832" symbol="drawSampleSize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="32" lineNum="92" pc="268437860" symbol="drawSampleSize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerBars.mc" id="32" lineNum="93" pc="268437888" symbol="drawSampleSize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\SessionTime.mc" id="35" lineNum="11" pc="268437938" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\SessionTime.mc" id="35" lineNum="12" pc="268437942" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\SessionTime.mc" id="36" lineNum="15" pc="268437953" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\SessionTime.mc" id="36" lineNum="16" pc="268437957" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\SessionTime.mc" id="36" lineNum="17" pc="268437972" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\SessionTime.mc" id="36" lineNum="18" pc="268438005" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\SessionTime.mc" id="36" lineNum="19" pc="268438045" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\SessionTime.mc" id="37" lineNum="22" pc="268438104" symbol="getTextCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\SessionTime.mc" id="37" lineNum="23" pc="268438108" symbol="getTextCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\SessionTime.mc" id="37" lineNum="24" pc="268438125" symbol="getTextCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\SessionTime.mc" id="38" lineNum="27" pc="268438180" symbol="getOrigo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\SessionTime.mc" id="38" lineNum="28" pc="268438184" symbol="getOrigo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\SessionTime.mc" id="38" lineNum="29" pc="268438203" symbol="getOrigo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\SessionTime.mc" id="38" lineNum="31" pc="268438221" symbol="getOrigo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="40" lineNum="11" pc="268438267" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="40" lineNum="12" pc="268438271" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="40" lineNum="13" pc="268438289" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="41" lineNum="16" pc="268438302" symbol="initSession"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="41" lineNum="17" pc="268438306" symbol="initSession"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="41" lineNum="18" pc="268438371" symbol="initSession"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="41" lineNum="19" pc="268438398" symbol="initSession"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="42" lineNum="22" pc="268438433" symbol="setViewHandler"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="42" lineNum="23" pc="268438437" symbol="setViewHandler"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="43" lineNum="26" pc="268438448" symbol="isStopped"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="43" lineNum="27" pc="268438452" symbol="isStopped"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="44" lineNum="30" pc="268438472" symbol="activityListener"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="44" lineNum="31" pc="268438476" symbol="activityListener"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="44" lineNum="33" pc="268438547" symbol="activityListener"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="44" lineNum="34" pc="268438565" symbol="activityListener"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="44" lineNum="36" pc="268438568" symbol="activityListener"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="44" lineNum="37" pc="268438609" symbol="activityListener"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="44" lineNum="39" pc="268438612" symbol="activityListener"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="45" lineNum="42" pc="268438633" symbol="timerListener"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="45" lineNum="43" pc="268438637" symbol="timerListener"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="45" lineNum="44" pc="268438672" symbol="timerListener"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="46" lineNum="47" pc="268438699" symbol="startStop"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="46" lineNum="48" pc="268438703" symbol="startStop"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="46" lineNum="49" pc="268438723" symbol="startStop"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="46" lineNum="51" pc="268438744" symbol="startStop"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="47" lineNum="55" pc="268438763" symbol="save"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="47" lineNum="56" pc="268438767" symbol="save"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="47" lineNum="57" pc="268438790" symbol="save"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="47" lineNum="58" pc="268438810" symbol="save"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="47" lineNum="60" pc="268438831" symbol="save"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="48" lineNum="63" pc="268438850" symbol="discard"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="48" lineNum="64" pc="268438854" symbol="discard"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="48" lineNum="65" pc="268438877" symbol="discard"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="48" lineNum="66" pc="268438897" symbol="discard"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Controller.mc" id="48" lineNum="68" pc="268438918" symbol="discard"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="50" lineNum="5" pc="268438937" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="50" lineNum="6" pc="268438941" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="51" lineNum="9" pc="268438952" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="51" lineNum="10" pc="268438956" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="51" lineNum="11" pc="268438956" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="51" lineNum="12" pc="268438956" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="51" lineNum="13" pc="268438996" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="51" lineNum="14" pc="268439020" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="51" lineNum="15" pc="268439027" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="51" lineNum="16" pc="268439044" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="51" lineNum="18" pc="268439110" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="52" lineNum="21" pc="268439127" symbol="drawNormalizedPower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="52" lineNum="22" pc="268439131" symbol="drawNormalizedPower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="52" lineNum="23" pc="268439147" symbol="drawNormalizedPower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="52" lineNum="24" pc="268439176" symbol="drawNormalizedPower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="52" lineNum="25" pc="268439210" symbol="drawNormalizedPower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="52" lineNum="26" pc="268439238" symbol="drawNormalizedPower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="52" lineNum="27" pc="268439278" symbol="drawNormalizedPower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="53" lineNum="30" pc="268439325" symbol="getLineLength"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="53" lineNum="31" pc="268439329" symbol="getLineLength"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="53" lineNum="32" pc="268439350" symbol="getLineLength"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraph.mc" id="53" lineNum="33" pc="268439372" symbol="getLineLength"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="55" lineNum="11" pc="268439376" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="55" lineNum="12" pc="268439380" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="55" lineNum="13" pc="268439398" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="56" lineNum="16" pc="268439409" symbol="setInputDelegate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="56" lineNum="17" pc="268439413" symbol="setInputDelegate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="57" lineNum="20" pc="268439424" symbol="register"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="57" lineNum="21" pc="268439428" symbol="register"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="58" lineNum="24" pc="268439449" symbol="showCurrentView"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="58" lineNum="25" pc="268439453" symbol="showCurrentView"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="59" lineNum="28" pc="268439503" symbol="signalTimerStateChange"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="59" lineNum="29" pc="268439507" symbol="signalTimerStateChange"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="59" lineNum="30" pc="268439507" symbol="signalTimerStateChange"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="59" lineNum="31" pc="268439537" symbol="signalTimerStateChange"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="59" lineNum="32" pc="268439550" symbol="signalTimerStateChange"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="59" lineNum="33" pc="268439564" symbol="signalTimerStateChange"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="61" lineNum="42" pc="268439595" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="61" lineNum="43" pc="268439599" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="61" lineNum="44" pc="268439617" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="62" lineNum="47" pc="268439628" symbol="onSelect"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="62" lineNum="48" pc="268439632" symbol="onSelect"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="62" lineNum="50" pc="268439694" symbol="onSelect"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="62" lineNum="51" pc="268439712" symbol="onSelect"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="62" lineNum="53" pc="268439715" symbol="onSelect"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="62" lineNum="54" pc="268439733" symbol="onSelect"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="63" lineNum="58" pc="268439737" symbol="onBack"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="63" lineNum="59" pc="268439741" symbol="onBack"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="64" lineNum="62" pc="268439770" symbol="onDone"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="64" lineNum="63" pc="268439774" symbol="onDone"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="65" lineNum="67" pc="268439803" symbol="showMenu"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="65" lineNum="68" pc="268439807" symbol="showMenu"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="65" lineNum="70" pc="268439839" symbol="showMenu"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="65" lineNum="71" pc="268439886" symbol="showMenu"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="65" lineNum="72" pc="268439932" symbol="showMenu"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="65" lineNum="74" pc="268439978" symbol="showMenu"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="65" lineNum="75" pc="268440010" symbol="showMenu"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="66" lineNum="78" pc="268440014" symbol="signalInfoUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="66" lineNum="79" pc="268440018" symbol="signalInfoUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="66" lineNum="80" pc="268440018" symbol="signalInfoUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="66" lineNum="81" pc="268440048" symbol="signalInfoUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="66" lineNum="82" pc="268440061" symbol="signalInfoUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="66" lineNum="83" pc="268440075" symbol="signalInfoUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="67" lineNum="88" pc="268440106" symbol="nextPage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="67" lineNum="89" pc="268440110" symbol="nextPage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="67" lineNum="90" pc="268440145" symbol="nextPage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="67" lineNum="92" pc="268440161" symbol="nextPage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="67" lineNum="94" pc="268440180" symbol="nextPage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="68" lineNum="97" pc="268440193" symbol="previousPage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="68" lineNum="98" pc="268440197" symbol="previousPage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="68" lineNum="99" pc="268440214" symbol="previousPage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="68" lineNum="101" pc="268440248" symbol="previousPage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\ViewHandler.mc" id="68" lineNum="103" pc="268440267" symbol="previousPage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="70" lineNum="15" pc="268440280" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="70" lineNum="16" pc="268440284" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="70" lineNum="17" pc="268440302" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="70" lineNum="19" pc="268440312" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="70" lineNum="20" pc="268440342" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="70" lineNum="21" pc="268440381" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="70" lineNum="23" pc="268440413" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="70" lineNum="24" pc="268440443" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="70" lineNum="25" pc="268440482" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="70" lineNum="26" pc="268440522" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="70" lineNum="27" pc="268440535" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="70" lineNum="29" pc="268440567" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="70" lineNum="30" pc="268440625" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="70" lineNum="31" pc="268440683" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="71" lineNum="34" pc="268440742" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="71" lineNum="35" pc="268440746" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="71" lineNum="36" pc="268440756" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="71" lineNum="37" pc="268440767" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="72" lineNum="41" pc="268440783" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="72" lineNum="42" pc="268440787" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="72" lineNum="43" pc="268440827" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="72" lineNum="45" pc="268440871" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="72" lineNum="46" pc="268440908" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="72" lineNum="47" pc="268440922" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="72" lineNum="48" pc="268440936" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="72" lineNum="51" pc="268440940" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="72" lineNum="52" pc="268441016" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="72" lineNum="53" pc="268441053" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="72" lineNum="54" pc="268441090" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="72" lineNum="55" pc="268441127" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="72" lineNum="57" pc="268441164" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="72" lineNum="58" pc="268441184" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="73" lineNum="62" pc="268441202" symbol="drawStopFrame"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="73" lineNum="63" pc="268441206" symbol="drawStopFrame"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="73" lineNum="64" pc="268441246" symbol="drawStopFrame"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="73" lineNum="65" pc="268441263" symbol="drawStopFrame"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="74" lineNum="68" pc="268441308" symbol="drawBike"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="74" lineNum="69" pc="268441312" symbol="drawBike"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="74" lineNum="70" pc="268441345" symbol="drawBike"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="74" lineNum="71" pc="268441382" symbol="drawBike"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="74" lineNum="72" pc="268441419" symbol="drawBike"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="75" lineNum="75" pc="268441438" symbol="drawLogo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="75" lineNum="76" pc="268441442" symbol="drawLogo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="75" lineNum="77" pc="268441449" symbol="drawLogo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="75" lineNum="78" pc="268441465" symbol="drawLogo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="75" lineNum="79" pc="268441505" symbol="drawLogo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="75" lineNum="80" pc="268441522" symbol="drawLogo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="75" lineNum="81" pc="268441556" symbol="drawLogo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="75" lineNum="82" pc="268441575" symbol="drawLogo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="76" lineNum="86" pc="268441610" symbol="onTimerState"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\OverviewView.mc" id="76" lineNum="87" pc="268441614" symbol="onTimerState"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\NormalizedPower.mc" id="78" lineNum="5" pc="268441627" symbol="addValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\NormalizedPower.mc" id="78" lineNum="6" pc="268441631" symbol="addValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\NormalizedPower.mc" id="78" lineNum="7" pc="268441638" symbol="addValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\NormalizedPower.mc" id="78" lineNum="9" pc="268441642" symbol="addValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\NormalizedPower.mc" id="78" lineNum="10" pc="268441689" symbol="addValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\NormalizedPower.mc" id="79" lineNum="13" pc="268441709" symbol="getNP"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\NormalizedPower.mc" id="79" lineNum="14" pc="268441713" symbol="getNP"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="81" lineNum="5" pc="268441778" symbol="setNormalizedPower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="81" lineNum="6" pc="268441782" symbol="setNormalizedPower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="82" lineNum="9" pc="268441793" symbol="updateInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="82" lineNum="10" pc="268441797" symbol="updateInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="83" lineNum="13" pc="268441808" symbol="isReady"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="83" lineNum="14" pc="268441812" symbol="isReady"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="84" lineNum="17" pc="268441824" symbol="getNormalizedPower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="84" lineNum="18" pc="268441828" symbol="getNormalizedPower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="85" lineNum="21" pc="268441869" symbol="getCurrentHeartRate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="85" lineNum="22" pc="268441873" symbol="getCurrentHeartRate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="86" lineNum="25" pc="268441926" symbol="getAverageHeartRate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="86" lineNum="26" pc="268441930" symbol="getAverageHeartRate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="87" lineNum="29" pc="268441983" symbol="getCurrentSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="87" lineNum="30" pc="268441987" symbol="getCurrentSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="88" lineNum="33" pc="268442040" symbol="getAverageSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="88" lineNum="34" pc="268442044" symbol="getAverageSpeed"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="89" lineNum="37" pc="268442097" symbol="getCurrentPower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="89" lineNum="38" pc="268442101" symbol="getCurrentPower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="90" lineNum="41" pc="268442154" symbol="getAveragePower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="90" lineNum="42" pc="268442158" symbol="getAveragePower"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="91" lineNum="45" pc="268442211" symbol="getCurrentCadence"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="91" lineNum="46" pc="268442215" symbol="getCurrentCadence"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="92" lineNum="49" pc="268442268" symbol="getAverageCadence"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="92" lineNum="50" pc="268442272" symbol="getAverageCadence"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="93" lineNum="53" pc="268442325" symbol="getWallClockTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="93" lineNum="54" pc="268442329" symbol="getWallClockTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="93" lineNum="55" pc="268442348" symbol="getWallClockTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="94" lineNum="58" pc="268442401" symbol="getSessionTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="94" lineNum="59" pc="268442405" symbol="getSessionTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="94" lineNum="60" pc="268442440" symbol="getSessionTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="94" lineNum="63" pc="268442445" symbol="getSessionTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="94" lineNum="64" pc="268442468" symbol="getSessionTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="94" lineNum="65" pc="268442579" symbol="getSessionTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="94" lineNum="66" pc="268442585" symbol="getSessionTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="94" lineNum="67" pc="268442591" symbol="getSessionTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="94" lineNum="71" pc="268442600" symbol="getSessionTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="94" lineNum="72" pc="268442616" symbol="getSessionTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="94" lineNum="73" pc="268442632" symbol="getSessionTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="94" lineNum="74" pc="268442648" symbol="getSessionTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\InfoWrapper.mc" id="94" lineNum="76" pc="268442664" symbol="getSessionTime"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Clock.mc" id="97" lineNum="12" pc="268442734" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Clock.mc" id="97" lineNum="13" pc="268442738" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Clock.mc" id="98" lineNum="16" pc="268442749" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Clock.mc" id="98" lineNum="17" pc="268442753" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Clock.mc" id="98" lineNum="18" pc="268442768" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Clock.mc" id="98" lineNum="19" pc="268442801" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Clock.mc" id="98" lineNum="20" pc="268442841" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Clock.mc" id="99" lineNum="23" pc="268442900" symbol="getTextCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Clock.mc" id="99" lineNum="24" pc="268442904" symbol="getTextCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Clock.mc" id="99" lineNum="25" pc="268442921" symbol="getTextCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Clock.mc" id="100" lineNum="28" pc="268442985" symbol="getOrigo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Clock.mc" id="100" lineNum="29" pc="268442989" symbol="getOrigo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Clock.mc" id="100" lineNum="30" pc="268443008" symbol="getOrigo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\Clock.mc" id="100" lineNum="32" pc="268443026" symbol="getOrigo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="102" lineNum="5" pc="268443078" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="102" lineNum="6" pc="268443082" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="102" lineNum="7" pc="268443092" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="103" lineNum="10" pc="268443103" symbol="getBottomY"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="103" lineNum="11" pc="268443107" symbol="getBottomY"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="104" lineNum="14" pc="268443123" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="104" lineNum="15" pc="268443127" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="104" lineNum="16" pc="268443143" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="104" lineNum="17" pc="268443159" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="104" lineNum="18" pc="268443166" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="104" lineNum="19" pc="268443173" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="104" lineNum="20" pc="268443189" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="104" lineNum="21" pc="268443200" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="104" lineNum="23" pc="268443210" symbol="getValueInPercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="105" lineNum="26" pc="268443214" symbol="getYRange"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="105" lineNum="27" pc="268443218" symbol="getYRange"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="105" lineNum="28" pc="268443234" symbol="getYRange"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerGraphConfig.mc" id="105" lineNum="29" pc="268443250" symbol="getYRange"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="107" lineNum="14" pc="268443257" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="107" lineNum="15" pc="268443261" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="107" lineNum="17" pc="268443279" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="107" lineNum="18" pc="268443312" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="107" lineNum="19" pc="268443473" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="107" lineNum="21" pc="268443505" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="107" lineNum="22" pc="268443593" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="107" lineNum="24" pc="268443625" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="108" lineNum="27" pc="268443656" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="108" lineNum="28" pc="268443660" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="108" lineNum="29" pc="268443670" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="108" lineNum="30" pc="268443686" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="108" lineNum="31" pc="268443724" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="108" lineNum="32" pc="268443750" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="108" lineNum="34" pc="268443785" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="108" lineNum="35" pc="268443814" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="108" lineNum="37" pc="268443846" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="108" lineNum="38" pc="268443857" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="109" lineNum="42" pc="268443873" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="109" lineNum="43" pc="268443877" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="109" lineNum="44" pc="268443917" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="109" lineNum="46" pc="268443961" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="109" lineNum="47" pc="268443989" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="109" lineNum="48" pc="268444029" symbol="onUpdate"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Power\\PowerView.mc" id="110" lineNum="51" pc="268444060" symbol="onTimerState"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="113" lineNum="14" pc="268444065" symbol="hasIcon"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="113" lineNum="15" pc="268444069" symbol="hasIcon"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="114" lineNum="21" pc="268444084" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="114" lineNum="22" pc="268444088" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="115" lineNum="25" pc="268444099" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="115" lineNum="26" pc="268444103" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="115" lineNum="27" pc="268444110" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="115" lineNum="29" pc="268444120" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="115" lineNum="30" pc="268444137" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="115" lineNum="31" pc="268444155" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="115" lineNum="32" pc="268444175" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="115" lineNum="33" pc="268444190" symbol="draw"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="116" lineNum="37" pc="268444236" symbol="drawValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="116" lineNum="38" pc="268444240" symbol="drawValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="116" lineNum="39" pc="268444280" symbol="drawValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="116" lineNum="40" pc="268444299" symbol="drawValue"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="117" lineNum="43" pc="268444358" symbol="getValueCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="117" lineNum="44" pc="268444362" symbol="getValueCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="117" lineNum="45" pc="268444400" symbol="getValueCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="117" lineNum="46" pc="268444510" symbol="getValueCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="117" lineNum="47" pc="268444520" symbol="getValueCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="118" lineNum="50" pc="268444548" symbol="drawBars"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="118" lineNum="51" pc="268444552" symbol="drawBars"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="118" lineNum="52" pc="268444567" symbol="drawBars"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="118" lineNum="53" pc="268444589" symbol="drawBars"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="118" lineNum="54" pc="268444617" symbol="drawBars"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="118" lineNum="55" pc="268444624" symbol="drawBars"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="118" lineNum="56" pc="268444624" symbol="drawBars"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="118" lineNum="57" pc="268444683" symbol="drawBars"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="118" lineNum="58" pc="268444691" symbol="drawBars"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="118" lineNum="59" pc="268444706" symbol="drawBars"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="118" lineNum="60" pc="268444722" symbol="drawBars"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="118" lineNum="61" pc="268444766" symbol="drawBars"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="118" lineNum="62" pc="268444800" symbol="drawBars"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="118" lineNum="64" pc="268444813" symbol="drawBars"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="119" lineNum="67" pc="268444832" symbol="getIconCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="119" lineNum="68" pc="268444836" symbol="getIconCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="119" lineNum="69" pc="268444940" symbol="getIconCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="119" lineNum="70" pc="268444977" symbol="getIconCoordinates"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="120" lineNum="73" pc="268445005" symbol="getBarColor"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="120" lineNum="74" pc="268445009" symbol="getBarColor"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="120" lineNum="75" pc="268445020" symbol="getBarColor"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="120" lineNum="76" pc="268445038" symbol="getBarColor"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="120" lineNum="77" pc="268445063" symbol="getBarColor"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="120" lineNum="78" pc="268445081" symbol="getBarColor"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="120" lineNum="79" pc="268445106" symbol="getBarColor"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="120" lineNum="80" pc="268445124" symbol="getBarColor"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="120" lineNum="81" pc="268445149" symbol="getBarColor"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="120" lineNum="82" pc="268445167" symbol="getBarColor"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="120" lineNum="83" pc="268445192" symbol="getBarColor"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="120" lineNum="85" pc="268445210" symbol="getBarColor"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="121" lineNum="89" pc="268445226" symbol="getValuePercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="121" lineNum="90" pc="268445230" symbol="getValuePercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="121" lineNum="91" pc="268445252" symbol="getValuePercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="121" lineNum="92" pc="268445274" symbol="getValuePercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="121" lineNum="93" pc="268445281" symbol="getValuePercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\Overview\\XBar.mc" id="121" lineNum="94" pc="268445297" symbol="getValuePercent"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\BaseView.mc" id="123" lineNum="6" pc="268445313" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\BaseView.mc" id="123" lineNum="7" pc="268445317" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\BaseView.mc" id="124" lineNum="10" pc="268445336" symbol="onShow"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\BaseView.mc" id="124" lineNum="11" pc="268445340" symbol="onShow"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\BaseView.mc" id="125" lineNum="14" pc="268445351" symbol="onHide"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\BaseView.mc" id="125" lineNum="15" pc="268445355" symbol="onHide"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\BaseView.mc" id="126" lineNum="18" pc="268445366" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\BaseView.mc" id="126" lineNum="19" pc="268445370" symbol="onInfo"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\BaseView.mc" id="127" lineNum="22" pc="268445394" symbol="onTimerState"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\BaseView.mc" id="127" lineNum="23" pc="268445398" symbol="onTimerState"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\InputDelegate.mc" id="129" lineNum="8" pc="268445422" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\InputDelegate.mc" id="129" lineNum="9" pc="268445426" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\InputDelegate.mc" id="129" lineNum="10" pc="268445444" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\InputDelegate.mc" id="129" lineNum="11" pc="268445454" symbol="initialize"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\InputDelegate.mc" id="130" lineNum="14" pc="268445465" symbol="onNextPage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\InputDelegate.mc" id="130" lineNum="15" pc="268445469" symbol="onNextPage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\InputDelegate.mc" id="131" lineNum="18" pc="268445488" symbol="onPreviousPage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\InputDelegate.mc" id="131" lineNum="19" pc="268445492" symbol="onPreviousPage"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\InputDelegate.mc" id="132" lineNum="22" pc="268445511" symbol="onKey"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\InputDelegate.mc" id="132" lineNum="23" pc="268445515" symbol="onKey"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\InputDelegate.mc" id="132" lineNum="24" pc="268445535" symbol="onKey"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\InputDelegate.mc" id="133" lineNum="28" pc="268445557" symbol="onMenu"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\InputDelegate.mc" id="133" lineNum="29" pc="268445561" symbol="onMenu"/>
+<entry filename="C:\\java\\eclipse-2019-12\\Garmin\\MenoX\\source\\ViewFramework\\InputDelegate.mc" id="133" lineNum="30" pc="268445581" symbol="onMenu"/>
+<entry filename="Rez" id="139" lineNum="23" pc="268445603" symbol="MainLayout"/>
+<entry filename="Rez" id="139" lineNum="25" pc="268445615" symbol="MainLayout"/>
+<entry filename="Rez" id="139" lineNum="26" pc="268445767" symbol="MainLayout"/>
+<entry filename="Rez" id="139" lineNum="27" pc="268445879" symbol="MainLayout"/>
+<entry filename="Rez" id="139" lineNum="29" pc="268445919" symbol="MainLayout"/>
+<entry filename="Rez" id="142" lineNum="42" pc="268445947" symbol="initialize"/>
+<entry filename="Rez" id="142" lineNum="43" pc="268445951" symbol="initialize"/>
+<entry filename="Rez" id="142" lineNum="44" pc="268445969" symbol="initialize"/>
+<entry filename="Rez" id="142" lineNum="45" pc="268446025" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="88" symbol="valueFont"/>
+<entry id="133" method="true" symbol="getYRange"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="121" symbol="sampleSizes"/>
+<entry field="true" id="89" symbol="valueColor"/>
+<entry field="true" id="8388936" method="true" symbol="info"/>
+<entry id="18" object="true" symbol="NormalizedPower"/>
+<entry field="true" id="135" symbol="sumOfPowersOfFour"/>
+<entry field="true" id="37" symbol="circleRadius"/>
+<entry id="123" method="true" symbol="getBackgroundWidth"/>
+<entry id="110" object="true" symbol="MenuDelegate"/>
+<entry id="65" method="true" symbol="updateInfo"/>
+<entry id="124" method="true" symbol="getBackground"/>
+<entry field="true" id="8390437" symbol="alignment"/>
+<entry id="94" method="true" symbol="calculateBarXLocations"/>
+<entry field="true" id="42" symbol="EffortBarBackground"/>
+<entry id="52" method="true" symbol="MainLayout"/>
+<entry field="true" id="60" symbol="powerGraph"/>
+<entry field="true" id="140" symbol="timer"/>
+<entry id="30" method="true" symbol="getTextCoordinates"/>
+<entry id="21" object="true" symbol="PowerGraphConfig"/>
+<entry id="27" method="true" symbol="drawCurrentSpeed"/>
+<entry id="8388890" symbol="sport"/>
+<entry id="114" method="true" symbol="previousPage"/>
+<entry id="75" method="true" symbol="getAverageCadence"/>
+<entry id="10" object="true" symbol="PowerBarConfig"/>
+<entry id="132" method="true" symbol="drawLogo"/>
+<entry id="81" method="true" symbol="getIconCoordinates"/>
+<entry id="70" method="true" symbol="getCurrentSpeed"/>
+<entry field="true" id="45" symbol="Heart"/>
+<entry id="67" method="true" symbol="getNormalizedPower"/>
+<entry field="true" id="47" symbol="Lightning"/>
+<entry id="98" method="true" symbol="getAverage"/>
+<entry id="141" method="true" symbol="initSession"/>
+<entry field="true" id="58" symbol="powerData"/>
+<entry id="72" method="true" symbol="getCurrentPower"/>
+<entry id="22" object="true" symbol="PowerView"/>
+<entry id="106" method="true" symbol="setInputDelegate"/>
+<entry field="true" id="26" symbol="config"/>
+<entry field="true" id="35" symbol="averageSpeedFont"/>
+<entry id="14" object="true" symbol="Controller"/>
+<entry id="146" method="true" symbol="startStop"/>
+<entry id="8389629" method="true" symbol="getValue"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="145" method="true" symbol="timerListener"/>
+<entry id="63" method="true" symbol="onTimerState"/>
+<entry field="true" id="56" symbol="AppName"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry id="82" method="true" symbol="getBarColor"/>
+<entry field="true" id="136" symbol="numberOfValues"/>
+<entry field="true" id="38" symbol="circleWidth"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="92" method="true" symbol="hasIcon"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="95" method="true" symbol="drawBar"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry id="62" method="true" symbol="onInfo"/>
+<entry field="true" id="36" symbol="averageSpeedColor"/>
+<entry field="true" id="55" symbol="prompt"/>
+<entry field="true" id="49" symbol="id_monkey"/>
+<entry id="15" object="true" symbol="PowerGraph"/>
+<entry id="8388883" method="true" symbol="discard"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8390422" method="true" symbol="onDone"/>
+<entry id="12" object="true" symbol="PowerBars"/>
+<entry id="126" method="true" symbol="getBottomY"/>
+<entry id="8389178" method="true" symbol="drawCircle"/>
+<entry field="true" id="32" symbol="center"/>
+<entry field="true" id="93" symbol="barXLocations"/>
+<entry id="25" object="true" symbol="Config"/>
+<entry field="true" id="103" symbol="inputDelegate"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="23" object="true" symbol="XBar"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry id="78" method="true" symbol="drawValue"/>
+<entry field="true" id="8390646" symbol="range"/>
+<entry id="148" symbol="item_2"/>
+<entry id="147" symbol="item_1"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry id="99" method="true" symbol="drawSampleSize"/>
+<entry id="41" module="true" symbol="Menus"/>
+<entry id="69" method="true" symbol="getAverageHeartRate"/>
+<entry field="true" id="129" symbol="sessionTime"/>
+<entry id="74" method="true" symbol="getCurrentCadence"/>
+<entry id="97" method="true" symbol="drawCover"/>
+<entry id="143" method="true" symbol="isStopped"/>
+<entry id="142" method="true" symbol="setViewHandler"/>
+<entry id="127" method="true" symbol="getValueInPercent"/>
+<entry id="107" method="true" symbol="register"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="13" object="true" symbol="SessionTime"/>
+<entry field="true" id="90" symbol="valueBackground"/>
+<entry id="111" method="true" symbol="showMenu"/>
+<entry field="true" id="34" symbol="currentSpeedColor"/>
+<entry field="true" id="46" symbol="RedHeart"/>
+<entry field="true" id="134" symbol="active"/>
+<entry id="8388882" method="true" symbol="save"/>
+<entry field="true" id="8389892" symbol="background"/>
+<entry id="137" method="true" symbol="addValue"/>
+<entry id="109" method="true" symbol="signalTimerStateChange"/>
+<entry id="11" object="true" symbol="Speed"/>
+<entry id="9" object="true" symbol="MenoXApp"/>
+<entry id="131" method="true" symbol="drawBike"/>
+<entry id="51" object="true" symbol="MainMenu"/>
+<entry field="true" id="85" symbol="barWidth"/>
+<entry id="96" method="true" symbol="drawBackground"/>
+<entry field="true" id="104" symbol="views"/>
+<entry id="28" method="true" symbol="drawAverageSpeed"/>
+<entry id="24" object="true" symbol="BaseView"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="71" method="true" symbol="getAverageSpeed"/>
+<entry field="true" id="59" symbol="normalizedPower"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry field="true" id="87" symbol="barSpacing"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="29" method="true" symbol="getOrigo"/>
+<entry id="125" method="true" symbol="getSampleSize"/>
+<entry id="83" method="true" symbol="getValuePercent"/>
+<entry id="73" method="true" symbol="getAveragePower"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="79" method="true" symbol="getValueCoordinates"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="39" symbol="circleColor"/>
+<entry field="true" id="50" symbol="LauncherIcon"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="91" symbol="icon"/>
+<entry id="64" method="true" symbol="setNormalizedPower"/>
+<entry field="true" id="57" symbol="infoWrapper"/>
+<entry field="true" id="86" symbol="barHeight"/>
+<entry field="true" id="8388958" symbol="speed"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="116" method="true" symbol="drawNormalizedPower"/>
+<entry field="true" id="8388960" symbol="heartRate"/>
+<entry id="80" method="true" symbol="drawBars"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="77" method="true" symbol="getSessionTime"/>
+<entry id="20" object="true" symbol="Clock"/>
+<entry id="19" object="true" symbol="InfoWrapper"/>
+<entry id="8388891" symbol="subSport"/>
+<entry id="144" method="true" symbol="activityListener"/>
+<entry field="true" id="8388961" symbol="power"/>
+<entry id="68" method="true" symbol="getCurrentHeartRate"/>
+<entry field="true" id="33" symbol="currentSpeedFont"/>
+<entry field="true" id="8388892" symbol="name"/>
+<entry id="76" method="true" symbol="getWallClockTime"/>
+<entry id="112" method="true" symbol="signalInfoUpdate"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="43" symbol="EffortBarBackgroundBW"/>
+<entry field="true" id="8389347" symbol="color"/>
+<entry field="true" id="120" symbol="powerRange"/>
+<entry id="17" object="true" symbol="OverviewView"/>
+<entry field="true" id="119" symbol="yRange"/>
+<entry field="true" id="101" symbol="viewHandler"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry id="122" method="true" symbol="getBarCount"/>
+<entry id="66" method="true" symbol="isReady"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="108" method="true" symbol="showCurrentView"/>
+<entry id="130" method="true" symbol="drawStopFrame"/>
+<entry field="true" id="61" symbol="powerBars"/>
+<entry id="40" module="true" symbol="Layouts"/>
+<entry id="8388656" object="true" symbol="InputDelegate"/>
+<entry id="16" object="true" symbol="ViewHandler"/>
+<entry id="138" method="true" symbol="getNP"/>
+<entry id="113" method="true" symbol="nextPage"/>
+<entry field="true" id="44" symbol="Cog"/>
+<entry field="true" id="48" symbol="Bike"/>
+<entry field="true" id="8389743" symbol="backgroundColor"/>
+<entry id="117" method="true" symbol="getLineLength"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="102" symbol="controller"/>
+<entry field="true" id="139" symbol="session"/>
+<entry field="true" id="105" symbol="index"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="8389642" symbol="title"/>
+<entry field="true" id="128" symbol="clock"/>
+<entry field="true" id="54" symbol="menu_label_2"/>
+<entry field="true" id="53" symbol="menu_label_1"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435694" name="controller" stackId="1" startPc="268435483"/>
+<entry endPc="268435694" name="inputDelegate" stackId="3" startPc="268435483"/>
+<entry endPc="268435694" name="overviewView" stackId="5" startPc="268435483"/>
+<entry endPc="268435694" name="viewHandler" stackId="2" startPc="268435483"/>
+<entry endPc="268435694" name="powerView" stackId="4" startPc="268435483"/>
+<entry endPc="268435740" name="sampleSizes" stackId="4" startPc="268435695"/>
+<entry endPc="268435740" name="background" stackId="3" startPc="268435695"/>
+<entry endPc="268435740" name="powerRange" stackId="2" startPc="268435695"/>
+<entry endPc="268435740" name="yRange" stackId="1" startPc="268435695"/>
+<entry endPc="268435817" name="i" stackId="1" startPc="268435800"/>
+<entry endPc="268435902" name="range" stackId="4" startPc="268435841"/>
+<entry endPc="268435902" name="minPower" stackId="2" startPc="268435841"/>
+<entry endPc="268435902" name="adjustedValue" stackId="5" startPc="268435841"/>
+<entry endPc="268435902" name="maxPower" stackId="3" startPc="268435841"/>
+<entry endPc="268435903" name="value" stackId="1" startPc="268435837"/>
+<entry endPc="268435921" name="config" stackId="1" startPc="268435906"/>
+<entry endPc="268436013" name="currentSpeed" stackId="3" startPc="268435925"/>
+<entry endPc="268436013" name="averageSpeed" stackId="4" startPc="268435925"/>
+<entry endPc="268436014" name="dc" stackId="1" startPc="268435921"/>
+<entry endPc="268436014" name="speeds" stackId="2" startPc="268435921"/>
+<entry endPc="268436141" name="origo" stackId="2" startPc="268436018"/>
+<entry endPc="268436142" name="dc" stackId="1" startPc="268436014"/>
+<entry endPc="268436305" name="coordinates" stackId="5" startPc="268436146"/>
+<entry endPc="268436305" name="text" stackId="4" startPc="268436146"/>
+<entry endPc="268436305" name="origo" stackId="3" startPc="268436146"/>
+<entry endPc="268436306" name="dc" stackId="1" startPc="268436142"/>
+<entry endPc="268436306" name="speed" stackId="2" startPc="268436142"/>
+<entry endPc="268436514" name="coordinates" stackId="5" startPc="268436310"/>
+<entry endPc="268436514" name="text" stackId="4" startPc="268436310"/>
+<entry endPc="268436514" name="origo" stackId="3" startPc="268436310"/>
+<entry endPc="268436515" name="dc" stackId="1" startPc="268436306"/>
+<entry endPc="268436515" name="speed" stackId="2" startPc="268436306"/>
+<entry endPc="268436614" name="dc" stackId="1" startPc="268436515"/>
+<entry endPc="268436704" name="textDimensions" stackId="5" startPc="268436618"/>
+<entry endPc="268436705" name="dc" stackId="1" startPc="268436614"/>
+<entry endPc="268436705" name="font" stackId="4" startPc="268436614"/>
+<entry endPc="268436705" name="text" stackId="3" startPc="268436614"/>
+<entry endPc="268436705" name="origo" stackId="2" startPc="268436614"/>
+<entry endPc="268436782" name="config" stackId="1" startPc="268436705"/>
+<entry endPc="268436878" name="i" stackId="8" startPc="268436836"/>
+<entry endPc="268436881" name="locations" stackId="4" startPc="268436786"/>
+<entry endPc="268436881" name="barSpace" stackId="5" startPc="268436786"/>
+<entry endPc="268436881" name="freeSpace" stackId="6" startPc="268436786"/>
+<entry endPc="268436881" name="spacing" stackId="7" startPc="268436786"/>
+<entry endPc="268436882" name="backgroundWidth" stackId="3" startPc="268436782"/>
+<entry endPc="268436882" name="barCount" stackId="1" startPc="268436782"/>
+<entry endPc="268436882" name="screenWidth" stackId="2" startPc="268436782"/>
+<entry endPc="268436975" name="i" stackId="3" startPc="268436916"/>
+<entry endPc="268436976" name="dc" stackId="1" startPc="268436882"/>
+<entry endPc="268436976" name="data" stackId="2" startPc="268436882"/>
+<entry endPc="268437158" name="coveredPercent" stackId="6" startPc="268436980"/>
+<entry endPc="268437158" name="value" stackId="5" startPc="268436980"/>
+<entry endPc="268437159" name="x" stackId="2" startPc="268436976"/>
+<entry endPc="268437159" name="dc" stackId="1" startPc="268436976"/>
+<entry endPc="268437159" name="sampleSize" stackId="3" startPc="268436976"/>
+<entry endPc="268437159" name="data" stackId="4" startPc="268436976"/>
+<entry endPc="268437394" name="textDimensions" stackId="7" startPc="268437163"/>
+<entry endPc="268437394" name="backgroundWidth" stackId="6" startPc="268437163"/>
+<entry endPc="268437394" name="adjustedY" stackId="9" startPc="268437163"/>
+<entry endPc="268437394" name="adjustedX" stackId="8" startPc="268437163"/>
+<entry endPc="268437394" name="y" stackId="5" startPc="268437163"/>
+<entry endPc="268437395" name="x" stackId="2" startPc="268437159"/>
+<entry endPc="268437395" name="dc" stackId="1" startPc="268437159"/>
+<entry endPc="268437395" name="coveredPercent" stackId="3" startPc="268437159"/>
+<entry endPc="268437395" name="value" stackId="4" startPc="268437159"/>
+<entry endPc="268437436" name="x" stackId="2" startPc="268437395"/>
+<entry endPc="268437436" name="dc" stackId="1" startPc="268437395"/>
+<entry endPc="268437544" name="height" stackId="4" startPc="268437440"/>
+<entry endPc="268437545" name="x" stackId="2" startPc="268437436"/>
+<entry endPc="268437545" name="dc" stackId="1" startPc="268437436"/>
+<entry endPc="268437545" name="coveredPercent" stackId="3" startPc="268437436"/>
+<entry endPc="268437627" name="dataSize" stackId="3" startPc="268437549"/>
+<entry endPc="268437627" name="useData" stackId="4" startPc="268437549"/>
+<entry endPc="268437627" name="average" stackId="5" startPc="268437549"/>
+<entry endPc="268437628" name="sampleSize" stackId="1" startPc="268437545"/>
+<entry endPc="268437628" name="data" stackId="2" startPc="268437545"/>
+<entry endPc="268437715" name="i" stackId="3" startPc="268437692"/>
+<entry endPc="268437730" name="sum" stackId="2" startPc="268437632"/>
+<entry endPc="268437731" name="data" stackId="1" startPc="268437628"/>
+<entry endPc="268437934" name="textDimensions" stackId="5" startPc="268437735"/>
+<entry endPc="268437934" name="backgroundWidth" stackId="4" startPc="268437735"/>
+<entry endPc="268437934" name="adjustedY" stackId="7" startPc="268437735"/>
+<entry endPc="268437934" name="adjustedX" stackId="6" startPc="268437735"/>
+<entry endPc="268437935" name="x" stackId="2" startPc="268437731"/>
+<entry endPc="268437935" name="dc" stackId="1" startPc="268437731"/>
+<entry endPc="268437935" name="sampleSize" stackId="3" startPc="268437731"/>
+<entry endPc="268437953" name="config" stackId="1" startPc="268437938"/>
+<entry endPc="268438103" name="coordinates" stackId="4" startPc="268437957"/>
+<entry endPc="268438103" name="origo" stackId="3" startPc="268437957"/>
+<entry endPc="268438104" name="dc" stackId="1" startPc="268437953"/>
+<entry endPc="268438104" name="time" stackId="2" startPc="268437953"/>
+<entry endPc="268438179" name="textDimensions" stackId="5" startPc="268438108"/>
+<entry endPc="268438180" name="dc" stackId="1" startPc="268438104"/>
+<entry endPc="268438180" name="font" stackId="4" startPc="268438104"/>
+<entry endPc="268438180" name="text" stackId="3" startPc="268438104"/>
+<entry endPc="268438180" name="origo" stackId="2" startPc="268438104"/>
+<entry endPc="268438267" name="dc" stackId="1" startPc="268438180"/>
+<entry endPc="268438432" name="options" stackId="1" startPc="268438306"/>
+<entry endPc="268438448" name="viewHandler" stackId="1" startPc="268438433"/>
+<entry endPc="268438633" name="type" stackId="1" startPc="268438472"/>
+<entry endPc="268438633" name="data" stackId="2" startPc="268438472"/>
+<entry endPc="268438952" name="config" stackId="1" startPc="268438937"/>
+<entry endPc="268439110" name="i" stackId="6" startPc="268439020"/>
+<entry endPc="268439126" name="lineLength" stackId="5" startPc="268438956"/>
+<entry endPc="268439126" name="value" stackId="4" startPc="268438956"/>
+<entry endPc="268439127" name="dc" stackId="1" startPc="268438952"/>
+<entry endPc="268439127" name="normalizedPower" stackId="3" startPc="268438952"/>
+<entry endPc="268439127" name="data" stackId="2" startPc="268438952"/>
+<entry endPc="268439324" name="x" stackId="5" startPc="268439131"/>
+<entry endPc="268439324" name="textDimensions" stackId="4" startPc="268439131"/>
+<entry endPc="268439324" name="text" stackId="3" startPc="268439131"/>
+<entry endPc="268439324" name="y" stackId="6" startPc="268439131"/>
+<entry endPc="268439325" name="dc" stackId="1" startPc="268439127"/>
+<entry endPc="268439325" name="normalizedPower" stackId="2" startPc="268439127"/>
+<entry endPc="268439375" name="lineLength" stackId="4" startPc="268439329"/>
+<entry endPc="268439375" name="percent" stackId="3" startPc="268439329"/>
+<entry endPc="268439376" name="dc" stackId="1" startPc="268439325"/>
+<entry endPc="268439376" name="value" stackId="2" startPc="268439325"/>
+<entry endPc="268439409" name="controller" stackId="1" startPc="268439376"/>
+<entry endPc="268439424" name="inputDelegate" stackId="1" startPc="268439409"/>
+<entry endPc="268439449" name="view" stackId="1" startPc="268439424"/>
+<entry endPc="268439594" name="i" stackId="3" startPc="268439537"/>
+<entry endPc="268439594" name="view" stackId="2" startPc="268439507"/>
+<entry endPc="268439595" name="type" stackId="1" startPc="268439503"/>
+<entry endPc="268439628" name="controller" stackId="1" startPc="268439595"/>
+<entry endPc="268439737" name="item" stackId="1" startPc="268439628"/>
+<entry endPc="268440013" name="delegate" stackId="1" startPc="268439807"/>
+<entry endPc="268440013" name="menu" stackId="2" startPc="268439807"/>
+<entry endPc="268440105" name="i" stackId="3" startPc="268440048"/>
+<entry endPc="268440105" name="view" stackId="2" startPc="268440018"/>
+<entry endPc="268440106" name="infoWrapper" stackId="1" startPc="268440014"/>
+<entry endPc="268440741" name="powerConf" stackId="3" startPc="268440284"/>
+<entry endPc="268440741" name="heartRateConf" stackId="2" startPc="268440284"/>
+<entry endPc="268440742" name="controller" stackId="1" startPc="268440280"/>
+<entry endPc="268440783" name="infoWrapper" stackId="1" startPc="268440742"/>
+<entry endPc="268441202" name="dc" stackId="1" startPc="268440783"/>
+<entry endPc="268441308" name="dc" stackId="1" startPc="268441202"/>
+<entry endPc="268441437" name="x" stackId="3" startPc="268441312"/>
+<entry endPc="268441437" name="bike" stackId="2" startPc="268441312"/>
+<entry endPc="268441437" name="y" stackId="4" startPc="268441312"/>
+<entry endPc="268441438" name="dc" stackId="1" startPc="268441308"/>
+<entry endPc="268441609" name="x" stackId="5" startPc="268441442"/>
+<entry endPc="268441609" name="textDimensions" stackId="4" startPc="268441442"/>
+<entry endPc="268441609" name="font" stackId="3" startPc="268441442"/>
+<entry endPc="268441609" name="text" stackId="2" startPc="268441442"/>
+<entry endPc="268441609" name="y" stackId="6" startPc="268441442"/>
+<entry endPc="268441610" name="dc" stackId="1" startPc="268441438"/>
+<entry endPc="268441627" name="state" stackId="1" startPc="268441610"/>
+<entry endPc="268441709" name="value" stackId="1" startPc="268441627"/>
+<entry endPc="268441793" name="normalizedPower" stackId="1" startPc="268441778"/>
+<entry endPc="268441808" name="info" stackId="1" startPc="268441793"/>
+<entry endPc="268442400" name="time" stackId="1" startPc="268442329"/>
+<entry endPc="268442727" name="hours" stackId="4" startPc="268442405"/>
+<entry endPc="268442727" name="minutes" stackId="3" startPc="268442405"/>
+<entry endPc="268442727" name="time" stackId="1" startPc="268442405"/>
+<entry endPc="268442727" name="seconds" stackId="2" startPc="268442405"/>
+<entry endPc="268442749" name="config" stackId="1" startPc="268442734"/>
+<entry endPc="268442899" name="coordinates" stackId="4" startPc="268442753"/>
+<entry endPc="268442899" name="origo" stackId="3" startPc="268442753"/>
+<entry endPc="268442900" name="dc" stackId="1" startPc="268442749"/>
+<entry endPc="268442900" name="time" stackId="2" startPc="268442749"/>
+<entry endPc="268442984" name="textDimensions" stackId="5" startPc="268442904"/>
+<entry endPc="268442985" name="dc" stackId="1" startPc="268442900"/>
+<entry endPc="268442985" name="font" stackId="4" startPc="268442900"/>
+<entry endPc="268442985" name="text" stackId="3" startPc="268442900"/>
+<entry endPc="268442985" name="origo" stackId="2" startPc="268442900"/>
+<entry endPc="268443078" name="dc" stackId="1" startPc="268442985"/>
+<entry endPc="268443103" name="powerRange" stackId="2" startPc="268443078"/>
+<entry endPc="268443103" name="yRange" stackId="1" startPc="268443078"/>
+<entry endPc="268443213" name="range" stackId="4" startPc="268443127"/>
+<entry endPc="268443213" name="minPower" stackId="2" startPc="268443127"/>
+<entry endPc="268443213" name="percent" stackId="6" startPc="268443127"/>
+<entry endPc="268443213" name="adjustedValue" stackId="5" startPc="268443127"/>
+<entry endPc="268443213" name="maxPower" stackId="3" startPc="268443127"/>
+<entry endPc="268443214" name="value" stackId="1" startPc="268443123"/>
+<entry endPc="268443256" name="bottom" stackId="2" startPc="268443218"/>
+<entry endPc="268443256" name="top" stackId="1" startPc="268443218"/>
+<entry endPc="268443655" name="background" stackId="1" startPc="268443261"/>
+<entry endPc="268443655" name="powerBarConfig" stackId="2" startPc="268443261"/>
+<entry endPc="268443655" name="powerGraphConfig" stackId="3" startPc="268443261"/>
+<entry endPc="268443873" name="infoWrapper" stackId="1" startPc="268443656"/>
+<entry endPc="268444059" name="np" stackId="2" startPc="268443877"/>
+<entry endPc="268444060" name="dc" stackId="1" startPc="268443873"/>
+<entry endPc="268444065" name="state" stackId="1" startPc="268444060"/>
+<entry endPc="268444099" name="config" stackId="1" startPc="268444084"/>
+<entry endPc="268444232" name="coordinates" stackId="4" startPc="268444175"/>
+<entry endPc="268444235" name="topY" stackId="3" startPc="268444103"/>
+<entry endPc="268444236" name="dc" stackId="1" startPc="268444099"/>
+<entry endPc="268444236" name="value" stackId="2" startPc="268444099"/>
+<entry endPc="268444357" name="coordinates" stackId="4" startPc="268444240"/>
+<entry endPc="268444358" name="dc" stackId="1" startPc="268444236"/>
+<entry endPc="268444358" name="topY" stackId="2" startPc="268444236"/>
+<entry endPc="268444358" name="value" stackId="3" startPc="268444236"/>
+<entry endPc="268444547" name="x" stackId="5" startPc="268444362"/>
+<entry endPc="268444547" name="textDimensions" stackId="4" startPc="268444362"/>
+<entry endPc="268444547" name="y" stackId="6" startPc="268444362"/>
+<entry endPc="268444548" name="dc" stackId="1" startPc="268444358"/>
+<entry endPc="268444548" name="topY" stackId="2" startPc="268444358"/>
+<entry endPc="268444548" name="value" stackId="3" startPc="268444358"/>
+<entry endPc="268444831" name="x" stackId="8" startPc="268444552"/>
+<entry endPc="268444831" name="currentY" stackId="5" startPc="268444552"/>
+<entry endPc="268444831" name="valuePercent" stackId="3" startPc="268444552"/>
+<entry endPc="268444831" name="barColor" stackId="7" startPc="268444552"/>
+<entry endPc="268444831" name="barCount" stackId="6" startPc="268444552"/>
+<entry endPc="268444831" name="topValue" stackId="4" startPc="268444552"/>
+<entry endPc="268444832" name="dc" stackId="1" startPc="268444548"/>
+<entry endPc="268444832" name="value" stackId="2" startPc="268444548"/>
+<entry endPc="268445004" name="x" stackId="2" startPc="268444836"/>
+<entry endPc="268445004" name="y" stackId="3" startPc="268444836"/>
+<entry endPc="268445005" name="dc" stackId="1" startPc="268444832"/>
+<entry endPc="268445226" name="i" stackId="1" startPc="268445005"/>
+<entry endPc="268445312" name="highValue" stackId="3" startPc="268445230"/>
+<entry endPc="268445312" name="span" stackId="4" startPc="268445230"/>
+<entry endPc="268445312" name="lowValue" stackId="2" startPc="268445230"/>
+<entry endPc="268445312" name="adjustedValue" stackId="5" startPc="268445230"/>
+<entry endPc="268445313" name="value" stackId="1" startPc="268445226"/>
+<entry endPc="268445394" name="infoWrapper" stackId="1" startPc="268445366"/>
+<entry endPc="268445422" name="state" stackId="1" startPc="268445394"/>
+<entry endPc="268445465" name="controller" stackId="2" startPc="268445422"/>
+<entry endPc="268445465" name="viewHandler" stackId="1" startPc="268445422"/>
+<entry endPc="268445557" name="evt" stackId="1" startPc="268445511"/>
+<entry endPc="268445946" name="rez_cmp_local_text_1406736102" stackId="2" startPc="268445615"/>
+<entry endPc="268445946" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268445615"/>
+<entry endPc="268445947" name="dc" stackId="1" startPc="268445603"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="270" parentId="globals" symbolId="Speed" type="class"/>
+<dataEntry offset="389" parentId="Speed" symbolId="Config" type="class"/>
+<dataEntry offset="508" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="587" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="690" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="729" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="776" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="807" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="846" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="877" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="940" parentId="globals" symbolId="PowerView" type="class"/>
+<dataEntry offset="1051" parentId="globals" symbolId="InfoWrapper" type="class"/>
+<dataEntry offset="1226" parentId="globals" symbolId="XBar" type="class"/>
+<dataEntry offset="1353" parentId="XBar" symbolId="Config" type="class"/>
+<dataEntry offset="1480" parentId="globals" symbolId="MenoXApp" type="class"/>
+<dataEntry offset="1535" parentId="globals" symbolId="PowerBars" type="class"/>
+<dataEntry offset="1670" parentId="globals" symbolId="Clock" type="class"/>
+<dataEntry offset="1765" parentId="Clock" symbolId="Config" type="class"/>
+<dataEntry offset="1844" parentId="globals" symbolId="InputDelegate" type="class"/>
+<dataEntry offset="1939" parentId="globals" symbolId="ViewHandler" type="class"/>
+<dataEntry offset="2098" parentId="ViewHandler" symbolId="MenuDelegate" type="class"/>
+<dataEntry offset="2177" parentId="globals" symbolId="PowerGraph" type="class"/>
+<dataEntry offset="2256" parentId="globals" symbolId="SessionTime" type="class"/>
+<dataEntry offset="2351" parentId="SessionTime" symbolId="Config" type="class"/>
+<dataEntry offset="2430" parentId="globals" symbolId="PowerBarConfig" type="class"/>
+<dataEntry offset="2557" parentId="globals" symbolId="OverviewView" type="class"/>
+<dataEntry offset="2708" parentId="globals" symbolId="PowerGraphConfig" type="class"/>
+<dataEntry offset="2795" parentId="globals" symbolId="BaseView" type="class"/>
+<dataEntry offset="2882" parentId="globals" symbolId="NormalizedPower" type="class"/>
+<dataEntry offset="2961" parentId="globals" symbolId="Controller" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="MenoXApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="MenoXApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PowerBarConfig">
+<param id="yRange"/>
+<param id="powerRange"/>
+<param id="background"/>
+<param id="sampleSizes"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBarCount" parent="PowerBarConfig">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBackgroundWidth" parent="PowerBarConfig">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBackground" parent="PowerBarConfig">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSampleSize" parent="PowerBarConfig">
+<param id="i"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBottomY" parent="PowerBarConfig">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getValueInPercent" parent="PowerBarConfig">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Speed">
+<param id="config"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Speed">
+<param id="dc"/>
+<param id="speeds"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawCircle" parent="Speed">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawCurrentSpeed" parent="Speed">
+<param id="dc"/>
+<param id="speed"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawAverageSpeed" parent="Speed">
+<param id="dc"/>
+<param id="speed"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getOrigo" parent="Speed">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getTextCoordinates" parent="Speed">
+<param id="dc"/>
+<param id="origo"/>
+<param id="text"/>
+<param id="font"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PowerBars">
+<param id="config"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="calculateBarXLocations" parent="PowerBars">
+<param id="barCount"/>
+<param id="screenWidth"/>
+<param id="backgroundWidth"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="PowerBars">
+<param id="dc"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawBar" parent="PowerBars">
+<param id="dc"/>
+<param id="x"/>
+<param id="sampleSize"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawValue" parent="PowerBars">
+<param id="dc"/>
+<param id="x"/>
+<param id="coveredPercent"/>
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawBackground" parent="PowerBars">
+<param id="dc"/>
+<param id="x"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawCover" parent="PowerBars">
+<param id="dc"/>
+<param id="x"/>
+<param id="coveredPercent"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getValue" parent="PowerBars">
+<param id="sampleSize"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getAverage" parent="PowerBars">
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawSampleSize" parent="PowerBars">
+<param id="dc"/>
+<param id="x"/>
+<param id="sampleSize"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SessionTime">
+<param id="config"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="SessionTime">
+<param id="dc"/>
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getTextCoordinates" parent="SessionTime">
+<param id="dc"/>
+<param id="origo"/>
+<param id="text"/>
+<param id="font"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getOrigo" parent="SessionTime">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Controller">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="initSession" parent="Controller">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setViewHandler" parent="Controller">
+<param id="viewHandler"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="isStopped" parent="Controller">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="activityListener" parent="Controller">
+<param id="type"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="timerListener" parent="Controller">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="startStop" parent="Controller">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="save" parent="Controller">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="discard" parent="Controller">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PowerGraph">
+<param id="config"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="PowerGraph">
+<param id="dc"/>
+<param id="data"/>
+<param id="normalizedPower"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawNormalizedPower" parent="PowerGraph">
+<param id="dc"/>
+<param id="normalizedPower"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getLineLength" parent="PowerGraph">
+<param id="dc"/>
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ViewHandler">
+<param id="controller"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setInputDelegate" parent="ViewHandler">
+<param id="inputDelegate"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="register" parent="ViewHandler">
+<param id="view"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="showCurrentView" parent="ViewHandler">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="signalTimerStateChange" parent="ViewHandler">
+<param id="type"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MenuDelegate">
+<param id="controller"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="MenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="MenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onDone" parent="MenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="showMenu" parent="ViewHandler">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="signalInfoUpdate" parent="ViewHandler">
+<param id="infoWrapper"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="nextPage" parent="ViewHandler">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="previousPage" parent="ViewHandler">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="OverviewView">
+<param id="controller"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onInfo" parent="OverviewView">
+<param id="infoWrapper"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="OverviewView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawStopFrame" parent="OverviewView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawBike" parent="OverviewView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawLogo" parent="OverviewView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerState" parent="OverviewView">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="addValue" parent="NormalizedPower">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getNP" parent="NormalizedPower">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setNormalizedPower" parent="InfoWrapper">
+<param id="normalizedPower"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="updateInfo" parent="InfoWrapper">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="isReady" parent="InfoWrapper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getNormalizedPower" parent="InfoWrapper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getCurrentHeartRate" parent="InfoWrapper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getAverageHeartRate" parent="InfoWrapper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getCurrentSpeed" parent="InfoWrapper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getAverageSpeed" parent="InfoWrapper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getCurrentPower" parent="InfoWrapper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getAveragePower" parent="InfoWrapper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getCurrentCadence" parent="InfoWrapper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getAverageCadence" parent="InfoWrapper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getWallClockTime" parent="InfoWrapper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSessionTime" parent="InfoWrapper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Clock">
+<param id="config"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Clock">
+<param id="dc"/>
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getTextCoordinates" parent="Clock">
+<param id="dc"/>
+<param id="origo"/>
+<param id="text"/>
+<param id="font"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getOrigo" parent="Clock">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PowerGraphConfig">
+<param id="yRange"/>
+<param id="powerRange"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBottomY" parent="PowerGraphConfig">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getValueInPercent" parent="PowerGraphConfig">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getYRange" parent="PowerGraphConfig">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PowerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onInfo" parent="PowerView">
+<param id="infoWrapper"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="PowerView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerState" parent="PowerView">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="hasIcon" parent="Config">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="XBar">
+<param id="config"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="XBar">
+<param id="dc"/>
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawValue" parent="XBar">
+<param id="dc"/>
+<param id="topY"/>
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getValueCoordinates" parent="XBar">
+<param id="dc"/>
+<param id="topY"/>
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawBars" parent="XBar">
+<param id="dc"/>
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getIconCoordinates" parent="XBar">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getBarColor" parent="XBar">
+<param id="i"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getValuePercent" parent="XBar">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BaseView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="BaseView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="BaseView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onInfo" parent="BaseView">
+<param id="infoWrapper"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerState" parent="BaseView">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="InputDelegate">
+<param id="viewHandler"/>
+<param id="controller"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="InputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousPage" parent="InputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onKey" parent="InputDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="InputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

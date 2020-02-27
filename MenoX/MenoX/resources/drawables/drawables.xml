@@ -1,0 +1,10 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="EffortBarBackground" filename="EffortBarBackground.png" />
+    <bitmap id="EffortBarBackgroundBW" filename="EffortBarBackgroundBW.png" />
+    <bitmap id="Cog" filename="cog.png" />
+    <bitmap id="Heart" filename="heart.png" />
+    <bitmap id="RedHeart" filename="red_heart.png" />
+    <bitmap id="Lightning" filename="lightning.png" />
+    <bitmap id="Bike" filename="bike.png" />
+</drawables>
